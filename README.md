@@ -1,10 +1,10 @@
 # ⚫ Dynamic Programming in Tech Interviews 2024: 8 Must-Know Questions & Answers
 
-**Dynamic Programming**, a method for solving **complex problems** by breaking them down into simpler overlapping **subproblems**. It is a frequent topic in advanced coding interviews.
+**Dynamic Programming** is a method that solves complex problems by breaking them down into simpler overlapping subproblems, storing the solutions to each subproblem to avoid redundant computations. In coding interviews, it assesses a candidate's ability to optimize solutions through **memoization** and **tabulation** techniques.
 
 Check out our carefully selected list of **basic** and **advanced** Dynamic Programming questions and answers to be well-prepared for your tech interviews in 2024.
 
-![Dynamic Programming Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/dynamicProgramming.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698598947&Signature=QJa%2Fw4ZvwRlF8Hh1h9NGKoQIcd8puQeCMBtpm3IPx%2FfN5gQPGPUrgSanph2DCLuhfi%2FHlAvKvqot3BH68DexVaNIdRFpfIAwN4x5MSv9mDImjrcYVPtKclzAI1hBT%2FntSKymK3UX%2FrbZdpzmVTLO88OpBNagEGfmDVmBb4fJUEKnK7hnaMLS6m%2FfBgy6v22JG9vmJ4BlqxcxSA%2FHkVo86HcLuJkXFd1horeqNmDpBOq%2FoD7XR3cvq018YAk4OYRqvu0OkFlOAmsEdryDT7poMUACa2Qho1PtJHZ3FAR0XsQulyAkYCap9RfeYckG%2BOFS%2BtTlkIcTmAf9PqdnCeqbwA%3D%3D)
+![Dynamic Programming Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/dynamicProgramming.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698605400&Signature=e6SGf%2F53cm0AhCEBHxlJQn6xeNi3g%2BplIYyq4lwkSVW%2FE2QeeurESZJEGf1ZXdrXmhhdtxHedDSS34L12f41fnSnBl8PJ5k%2BzpCy9Rv1uhPA1eUPqkBMx1cvFBybmfZNgycUnhBsKexfMKoZJ9FycWhwjuzlBULP5orOHlP7GkcvlM3%2BCOSpg%2FAXpjRZRJcZbzfjM3GUqUE8dhH4arfabjr29fpDSdNnQP13MyawtLGVo8HwK8n79wAJbFQvnhP9BRfeaMuqMdcffJHVEdG6YbeYa5K40Zmb4qNMRMPXEQdjLHVCDSUbVsO7THBh9K7EJLGWTypPJbT2tkHebvF97g%3D%3D)
 
 👉🏼 You can also find all answers here: [Devinterview.io - Dynamic Programming](https://devinterview.io/data/dynamicProgramming-interview-questions)
 
