@@ -4,7 +4,7 @@
 
 Check out our carefully selected list of **basic** and **advanced** Dynamic Programming questions and answers to be well-prepared for your tech interviews in 2024.
 
-![Dynamic Programming Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/dynamicProgramming.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698605400&Signature=e6SGf%2F53cm0AhCEBHxlJQn6xeNi3g%2BplIYyq4lwkSVW%2FE2QeeurESZJEGf1ZXdrXmhhdtxHedDSS34L12f41fnSnBl8PJ5k%2BzpCy9Rv1uhPA1eUPqkBMx1cvFBybmfZNgycUnhBsKexfMKoZJ9FycWhwjuzlBULP5orOHlP7GkcvlM3%2BCOSpg%2FAXpjRZRJcZbzfjM3GUqUE8dhH4arfabjr29fpDSdNnQP13MyawtLGVo8HwK8n79wAJbFQvnhP9BRfeaMuqMdcffJHVEdG6YbeYa5K40Zmb4qNMRMPXEQdjLHVCDSUbVsO7THBh9K7EJLGWTypPJbT2tkHebvF97g%3D%3D)
+![Dynamic Programming Decorative Image](https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/blogImg%2FdynamicProgramming.png?alt=media&token=4641ba52-c94a-4020-a47d-b90b47b94266&_gl=1*2rhqyc*_ga*OTYzMjY5NTkwLjE2ODg4NDM4Njg.*_ga_CW55HF8NVT*MTY5ODYwNTk1NS4xOTAuMS4xNjk4NjA3Mjk1LjYwLjAuMA..)
 
 👉🏼 You can also find all answers here: [Devinterview.io - Dynamic Programming](https://devinterview.io/data/dynamicProgramming-interview-questions)
 
