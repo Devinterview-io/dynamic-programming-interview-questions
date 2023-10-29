@@ -200,9 +200,6 @@ def fibonacci_memoization(n, memo={}):
 In this example, `fibonacci_divide_conquer` uses Divide and Conquer without any storage mechanism. `fibonacci_memoization` leverages Dynamic Programming and memoizes results to avoid redundant calculations.
 
 ---
-
----
-
 ## 🔹 5. Compare _Greedy_ vs _Divide & Conquer_ vs _Dynamic Programming_ algorithms.
 
 ### Answer
@@ -232,3 +229,6 @@ In this example, `fibonacci_divide_conquer` uses Divide and Conquer without any 
 ### Answer
 
 👉🏼 Check out all 8 answers here: [Devinterview.io - Dynamic Programming](https://devinterview.io/data/dynamicProgramming-interview-questions)
+
+---
+
